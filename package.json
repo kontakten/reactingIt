@@ -4,7 +4,7 @@
   "description": "testing react with webpack",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack -d --watch",
+    "dev": "webpack-dev-server",
     "prod": "webpack -p"
   },
   "repository": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/kontakten/reactingIt#readme",
   "dependencies": {
     "html-webpack-plugin": "^2.28.0",
-    "webpack": "^2.2.1"
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.2.1"
   }
 }
