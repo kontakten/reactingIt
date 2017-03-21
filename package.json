@@ -1,0 +1,23 @@
+{
+  "name": "reacting",
+  "version": "1.0.0",
+  "description": "testing react with webpack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "prod":"webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontakten/reactingIt.git"
+  },
+  "author": "kontakten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kontakten/reactingIt/issues"
+  },
+  "homepage": "https://github.com/kontakten/reactingIt#readme",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
