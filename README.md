@@ -30,7 +30,7 @@ Using webpack-dev-server for local server.
 
 npm run:
 
->>..package.json;
+//..package.json;
 
 "scripts": {
     "dev": "webpack-dev-server", // For development
