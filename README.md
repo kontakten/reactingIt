@@ -22,7 +22,9 @@ npm install // Installing dependencies and preparing for execution.
 
 ```
 
-## Running the tests
+## Running the webpack dev-server
+
+Using webpack-dev-server for local server.
 
 ```
 
