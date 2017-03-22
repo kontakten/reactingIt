@@ -65,7 +65,6 @@ ReactDOM.render(
   </head>
   <body>
     <div id="root"></div>
-    <p>This is the bundled content</p>
   </body>
 </html>
 
