@@ -44,6 +44,18 @@ npm run:
 
 
 ```
+// app.js
+
+const css = require('./app.scss');
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(
+    <h1>Hello, World</h1>,
+    document.getElementById('root')
+);
+
 // index.ejs
 <!DOCTYPE html>
 <html>

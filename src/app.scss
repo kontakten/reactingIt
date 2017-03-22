@@ -1,7 +1,13 @@
-body{
-    background-color:#fff;
+body,
+html{
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: 200;
+    background-color:#607D8B;
+    text-align: center;
     p{
-        color:green;
+        color:#CFD8DC;
     }
-    
+    h1{
+        color:#ECEFF1;
+    }   
 }
