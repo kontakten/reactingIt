@@ -1,6 +1,7 @@
 # Project Title
 
-Testing out Webpack configuration and reaching limits of bundling view layer. Incomming ReacJS project using this 'swiss army knife' - tool. 
+Testing out Webpack configuration (+ hashing) and ReactJS testing the limits of bundling the view/frontend layer. Incomming ReacJS project using this 'swiss army knife' - tool. 
+
 
 ## Getting Started
 
