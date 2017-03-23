@@ -1,4 +1,4 @@
-# Project Title
+# Webpack & ReactJS
 
 Testing out Webpack configuration (+ hashing) and ReactJS testing the limits of bundling the view/frontend layer. Incomming ReacJS project using this 'swiss army knife' - tool. 
 
