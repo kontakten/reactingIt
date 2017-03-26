@@ -1,9 +1,18 @@
 const css = require('./app.scss');
-
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Index from './app/index.js';
 
-ReactDOM.render(
-    <h1>Testing stuff out.</h1>,
-    document.getElementById('root')
-);
+
+class App extends React.Component {
+    
+    render(){
+        return(
+           <Index />
+        );
+    }
+}
+
+const root = document.getElementById('root');
+
+ReactDOM.render(<App />, root);
